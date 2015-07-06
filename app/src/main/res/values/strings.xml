@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Preferencias</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lblentrada">Preferences!</string>
+    <string name="edad">Edad</string>
+    <string name="guardar">Guardar</string>
+    <string name="nombres">Nombre</string>
+    <string name="sexo">Masculino Femenino</string>
+    <string name="blimpiar">Limpiar</string>
+
+
+</resources>
